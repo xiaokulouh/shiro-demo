@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hwy</groupId>
-	<artifactId>cache</artifactId>
+	<artifactId>shiro-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cache</name>
-	<description>Demo project for cache</description>
+	<name>shiro-demo</name>
+	<description>Demo project for shiro</description>
 
 	<properties>
 		<java.version>1.8</java.version>
